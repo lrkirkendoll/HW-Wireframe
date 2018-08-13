@@ -1,13 +1,14 @@
 body {
     width: 960px;
     margin: 0 auto;
-    background: #666;
+    background: #777;
     font-family: Arial, Helvetica, sans-serif;
-
+    color: #777;
+    font: 18px;
 }
 
 h1  {
-    background: #eee;
+    background: #ebebeb;
     color: #666;
     padding: 40px;
     text-align: center;
@@ -19,7 +20,7 @@ h1  {
 }
 
 nav {
-    background: #eee;
+    background: #ebebeb;
     color: #666;
     padding: 40px;
     text-align: center;
@@ -28,7 +29,7 @@ nav {
 }
 
 section {
-    background: #eee;
+    background: #ebebeb;
     color: #666;
     padding: 20px;
     text-align: center;
@@ -50,7 +51,7 @@ h2  {
 }
 
 aside {
-    background: #eee;
+    background: #ebebeb;
     color: #666;
     padding: 20px;
     margin-top: 5px;
@@ -69,8 +70,8 @@ aside {
 
 #article {
     margin-top: 20px;
-    background: #666;
-    color: #eee;
+    background: #777;
+    color: #ebebeb;
     padding: 15px;
 }
 
@@ -81,16 +82,16 @@ h3 {
 
 }
 #h1_box {
-    background: #eee;
-    color: #666;
+    background: #ebebeb;
+    color: #777;
     padding: 25px;
     margin-bottom: 15px;
     
 }
 
 #p_box {
-    background: #eee;
-    color: #666;
+    background: #ebebeb;
+    color: #777;
     padding: 25px;
     margin-bottom: 5px;
     
@@ -98,7 +99,7 @@ h3 {
 }
 
 footer {
-    background: #eee;
+    background: #ebebeb;
     color: #666;
     padding: 40px;
     text-align: center;
